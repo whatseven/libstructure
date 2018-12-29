@@ -1,0 +1,7 @@
+[submodule "libs/EIGEN3"]
+	path = libs/EIGEN3
+	url = https://github.com/eigenteam/eigen-git-mirror
+
+[submodule "libs/TinyPly"]
+	path = libs/TinyPly
+	url = https://github.com/ddiakopoulos/tinyply
